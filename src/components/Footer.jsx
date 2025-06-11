@@ -3,7 +3,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="container mx-auto px-5 mt-10">
+    <footer className="container mx-auto px-5 mt-32">
       <div
         className="
           grid 
